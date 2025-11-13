@@ -30,8 +30,8 @@ https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 ## Installation
 ### Clone The Repository
 ```bash
-git clone https://github.com/Lord-Mahdi1383/Crypto-Coin-Charts-With-Streamlit-And-Yahoo-Finance
-cd Crypto-Coin-Charts-With-Streamlit-And-Yahoo-Finance
+git clone https://github.com/Lord-Mahdi1383/NYC_taxi_trip_duration_prediction
+cd NYC_taxi_trip_duration_prediction
 ```
 
 ### Install Dependencies
